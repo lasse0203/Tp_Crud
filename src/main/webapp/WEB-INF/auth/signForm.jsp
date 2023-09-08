@@ -6,7 +6,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <jsp:useBean id="mode" type="java.lang.String" scope="request" />
-<jsp:useBean id="user" type="com.example.exercice05.models.UserDTO" scope="request" />
+<jsp:useBean id="user" type="com.example.tp_crud.models.UserDTO" scope="request" />
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
