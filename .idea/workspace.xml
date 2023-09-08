@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4875d016-7411-4e11-8fce-8e305fefbd12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/ALGO.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/Algobox.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/EXO_triangle.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/algo nmbr.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/calcul.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/exo 13.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/exo 14.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/exo 15.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/exo 15bis.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/exo 16.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/exo 19.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/exo 20.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/sport.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXERCICE ALGO/taille.alg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/src/main/java/com/example/exo1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/src/main/java/com/example/exo1/ServletInscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/src/main/webapp/bootstrapImports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/src/main/webapp/inscription.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exo1/src/main/webapp/page2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partage.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJava/firstproject/firstproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJava/firstproject/src/demo/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJava/firstproject/src/demo/exo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJava/firstproject/src/demo/exo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJava/firstproject/src/demo/exo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJava/firstproject/src/demo/operateurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJee/src/main/java/com/example/demojee/MonServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJee/src/main/java/com/example/demojee/MonServletAvecJsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJee/src/main/java/com/example/demojee/MonServletHtml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJee/src/main/webapp/bootstrapImports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoJee/src/main/webapp/test-01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoParam/src/main/webapp/WEB-INF/inscription.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/java/com/example/exosession/controllers/PrivateHelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/java/com/example/exosession/controllers/SignInServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/java/com/example/exosession/controllers/SignUpServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/java/com/example/exosession/data/FakeDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/java/com/example/exosession/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/webapp/WEB-INF/auth/signIn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/webapp/WEB-INF/auth/signUp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exoSession/src/main/webapp/WEB-INF/private/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fichier.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tp_crud/controllers/ServletSignIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tp_crud/controllers/ServletSignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tp_crud/data/FakeDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tp_crud/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/tp_crud/models/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/auth/signForm.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2V7Kgknv94bOaxstienGkikjrQM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.13" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.13" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="tp_Crud:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tp_Crud_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tp_Crud:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4875d016-7411-4e11-8fce-8e305fefbd12" name="Changes" comment="" />
+      <created>1694181800054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694181800054</updated>
+      <workItem from="1694181801107" duration="2464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
